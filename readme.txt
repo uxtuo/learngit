@@ -5,6 +5,14 @@
 5
 666666
 7
+<<<<<<< HEAD
 branch new
 
 wwww
+=======
+another
+ branch new
+
+>>>>>>> branch1
+
+createing
